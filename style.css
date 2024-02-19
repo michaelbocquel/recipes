@@ -5,12 +5,22 @@
 	text-align: center;
 }
 
+p.subtitle {
+	font-size: 24px;
+	font-weight: bolder;
+}
+
 li {
 	font-size: 18px;
 }
 
 h1,
+p.subtitle {
+	padding: 20px 0;
+}
+
 p,
 li {
 	padding: 10px 0;
+	font-size: 18px;
 }
