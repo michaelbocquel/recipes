@@ -4,3 +4,13 @@
 	box-sizing: border-box;
 	text-align: center;
 }
+
+li {
+	font-size: 18px;
+}
+
+h1,
+p,
+li {
+	padding: 10px 0;
+}
